@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://waterloorestoration.com/sitemap.xml
